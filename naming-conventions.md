@@ -1,6 +1,15 @@
 CSS
 =======
 
+Use dash-cased class names
+---------------------------
+
+It's consistent with CSS property naming convention
+
+```css
+.some-class-name {}
+```
+
 Namespace all class names to avoid collisions
 ---------------------------------------------
 
