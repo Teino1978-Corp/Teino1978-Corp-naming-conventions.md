@@ -10,4 +10,16 @@ Usually company initials
 .ns-sidebar {}
 ```
 
+Namespace with module prefix
+-----------------------------
 
+```css
+.ns-admin-sidebar {}
+```
+
+Use HTML hierarchy when possible
+---------------------------------
+
+```css
+.ns-admin-sidebar > header {}
+```
