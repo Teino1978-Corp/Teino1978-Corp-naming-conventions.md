@@ -23,3 +23,9 @@ Use HTML hierarchy when possible
 ```css
 .ns-admin-sidebar > header {}
 ```
+
+No cascading (?)
+-----------------
+
+See <https://youtu.be/VkTCL6Nqm6Y?t=24m19s>
+
