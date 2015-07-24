@@ -10,6 +10,12 @@ It's consistent with CSS property naming convention
 .some-class-name {}
 ```
 
+Do not use ID's for styling
+-----------------------------
+
+ID's are not modular and quickly run into specifity issues.  
+It's better to leave them for JS identifiers, and only use class names for styling.
+
 Namespace all class names to avoid collisions
 ---------------------------------------------
 
